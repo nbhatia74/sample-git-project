@@ -6,7 +6,7 @@ public class SampleClass {
 		// TODO Auto-generated method stub
 		//Sample line in remote !!
 		System.out.println("Git Change 2");
-		System.out.println("Git Change 3");
+		System.out.println("Git Change 4");
 
 	}
 
